@@ -32,9 +32,6 @@ A visual intake form that calculates your current "inflammatory load" based on l
 - **Deployment:** Vercel
 
 ## 🏃‍♂️ How to Run Locally
-npm install
-npm run dev
-
 1. Clone the repo
    ```bash
    git clone [https://github.com/your-username/gut-reset.git](https://github.com/your-username/gut-reset.git)
